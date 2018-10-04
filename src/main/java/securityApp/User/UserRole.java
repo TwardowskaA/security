@@ -1,4 +1,4 @@
-package User;
+package securityApp.User;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

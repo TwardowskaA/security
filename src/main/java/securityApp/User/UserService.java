@@ -1,4 +1,4 @@
-package User;
+package securityApp.User;
 
 import org.springframework.stereotype.Service;
 
